@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.iwebdevelopment/afas",
+  "description": "AFAS AI Connect: hosted MCP server for AFAS Profit.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp-afas.iwebdevelopment.com"
+    }
+  ]
+}

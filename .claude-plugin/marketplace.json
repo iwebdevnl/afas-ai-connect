@@ -1,0 +1,11 @@
+{
+  "name": "iwebdevnl-afas",
+  "owner": { "name": "iWebDevelopment", "email": "support@iwebdevelopment.com" },
+  "plugins": [
+    {
+      "name": "afas",
+      "source": "./plugins/afas",
+      "description": "AFAS AI Connect: AFAS Profit via MCP"
+    }
+  ]
+}
