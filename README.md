@@ -70,7 +70,7 @@ Prefer to add it manually? `claude mcp add --transport http afas https://mcp-afa
 
 AFAS AI Connect is a standard remote MCP server, so most MCP-capable clients (ChatGPT, Perplexity, GitHub Copilot, Cursor, Cline, Windsurf, Zed, and others) can add it by URL. Setup steps and plan requirements vary per client, see the matrix below.
 
-See the [full documentation](https://iwebdevnl.github.io/afas-ai-connect/) for per-client setup.
+See the [full documentation](https://www.iwebdevelopment.com/kennisbank/hoe-werkt-de-afas-ai-mcp-koppeling) for per-client setup.
 
 ## Client compatibility
 
