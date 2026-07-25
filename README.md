@@ -57,7 +57,7 @@ For a legacy `mcp-remote` fallback, see `examples/claude-desktop-config.json` (o
 
 ```
 /plugin marketplace add iwebdevnl/afas-ai-connect
-/plugin install afas@iwebdevnl-afas
+/plugin install afas-ai-connect@iwebdevnl-afas
 /reload-plugins
 /mcp
 ```
