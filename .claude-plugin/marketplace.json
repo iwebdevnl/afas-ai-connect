@@ -1,5 +1,6 @@
 {
   "name": "iwebdevnl-afas",
+  "description": "iWebDevelopment marketplace voor AFAS AI Connect: een hosted MCP-server met commands voor AFAS Profit.",
   "owner": { "name": "iWebDevelopment", "email": "support@iwebdevelopment.com" },
   "plugins": [
     {
