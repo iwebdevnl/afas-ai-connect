@@ -2,11 +2,13 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "afas-ai-connect",
   "displayName": "AFAS AI Connect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "defaultEnabled": false,
   "description": "Connect your AI assistant to your AFAS Profit administration.",
   "author": { "name": "iWebDevelopment", "url": "https://www.iwebdevelopment.com" },
   "homepage": "https://www.iwebdevelopment.com/afas/ai-mcp-koppeling",
+  "documentationUrl": "https://www.iwebdevelopment.com/kennisbank/tag/ai",
+  "privacyPolicyUrl": "https://www.iwebdevelopment.com/privacybeleid",
   "license": "MIT",
   "keywords": ["afas", "mcp", "erp", "accounting"]
 }
